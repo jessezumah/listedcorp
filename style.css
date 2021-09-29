@@ -106,7 +106,7 @@ a {
   font-size: 2rem;
   text-shadow: 0.2rem 0.2rem 0.3rem rgb(255, 255, 255);
   font-weight: 600;
-  color: rgb(122, 4, 4);
+  color: rgb(221, 45, 45);
   border-radius: 1rem;
   background: linear-gradient(
     to right bottom,
@@ -117,12 +117,16 @@ a {
   padding: 20px;
 }
 .big-m {
-  color: red;
+  color: black;
   font-size: 2rem;
-  text-shadow: 0.1rem 0.1rem 0.3rem rgb(158, 155, 155);
+  text-shadow: 0.1rem 0.1rem 0.3rem rgb(221, 214, 214);
 }
 .List {
   font-size: 4rem;
+}
+.List1 {
+  font-size: 2.2rem;
+  color: rgb(221, 45, 45) !important;
 }
 .airplane {
   position: relative;
